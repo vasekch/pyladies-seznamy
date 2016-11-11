@@ -52,7 +52,7 @@ Můžeme si výsledný seznam uložit do nové proměnné...
 
     spojeny_seznam = tel_seznam + druhy_seznam
 
-Nebo za použití metody extend pžipojíme druhý seznam na konec prvního.
+Nebo za použití metody extend připojíme druhý seznam na konec prvního.
 
     tel_seznam.extend(druhy_seznam)
 
