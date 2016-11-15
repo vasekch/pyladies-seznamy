@@ -3,7 +3,7 @@ PyLadies - lekce seznamy
 
 CZ.NIC Praha 24.5.2016
 
-Toto je učesaný přepis příkazů, které jsem promítal na hodině. V interaktivním pythonu puštěného v příkazové řádce.
+Toto je učesaný přepis příkazů, které jsem promítal na hodině. Jednotlivé příkazy jsem pouštěl postupně v interaktivním Pythonu v příkazové řádce.
 
 Seznam (`list`)
 ---------------
